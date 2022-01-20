@@ -1,23 +1,23 @@
 {
   "name": "Law of Property II",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LAW 306",
   "sections": {
     "LAW 306-001": {
-      "instructor": "Arif Barış Özbilen",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "instructor": "Şemsi Barış Özçelik",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,32 +27,112 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-206(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-140(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-206",
-          "class": "Hybrid Lecture"
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "MA-206",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "MA-206",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 306-001"
+    },
+    "LAW 306-002": {
+      "instructor": "Şemsi Barış Özçelik",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-203(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-203",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-203",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-203",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "LAW 306-002"
+    },
+    "LAW 306-003": {
+      "instructor": "Arif Barış Özbilen",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-114(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-114",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-114",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-114",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "LAW 306-003"
     }
   }
 }

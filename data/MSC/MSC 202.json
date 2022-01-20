@@ -2,15 +2,15 @@
   "name": "Department Seminar IV",
   "lectureHours": {
     "hybrid": 0,
-    "online": 0
+    "online": 2
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 0.5
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "MSC 202",
   "sections": {}

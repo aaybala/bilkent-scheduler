@@ -1,23 +1,23 @@
 {
   "name": "Programming in Architecture",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
+    "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 4,
+    "ECTS": 3
   },
   "code": "ARCH 316",
   "sections": {
     "ARCH 316-001": {
       "instructor": "Ahmet Ünveren",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,22 +27,29 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-310",
+          "class": "Online Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-310",
+          "class": "Online Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-310",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-310",
+          "class": "Online Lab/Studio"
         }
       ],
       "name": "ARCH 316-001"

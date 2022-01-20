@@ -9,8 +9,8 @@
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 24
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "GE 690",
   "sections": {}

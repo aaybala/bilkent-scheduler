@@ -1,142 +1,20 @@
 {
   "name": "Principles of Chemistry I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 4,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 4
   },
   "code": "CHEM 101",
   "sections": {
     "CHEM 101-001": {
-      "instructor": "Emrah Özensoy",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "SA-Z01(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "SA-Z01",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "SA-Z01",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "SA-Z01",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CHEM 101-001"
-    },
-    "CHEM 101-002": {
-      "instructor": "Halil İbrahim Okur",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "SA-Z20(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "SA-Z20",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "SA-Z20",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "SA-Z20",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CHEM 101-002"
-    },
-    "CHEM 101-003": {
       "instructor": "Ulrike Salzner",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
@@ -146,63 +24,63 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SB-Z03(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SB-Z03",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "SA-Z01(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "SA-Z01",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "SB-Z03",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "SA-Z01",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "SB-Z03",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "SA-Z01",
+          "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "CHEM 101-003"
+      "name": "CHEM 101-001"
     }
   }
 }

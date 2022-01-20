@@ -1,0 +1,44 @@
+{
+  "name": "Technology Society and Professional Development Seminar",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 1
+  },
+  "code": "GE 304",
+  "sections": {
+    "GE 304-001": {
+      "instructor": "Mehmet Alper Kutay",
+      "quota": "Unlimited",
+      "total_quota": null,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "GE 304-001"
+    }
+  }
+}

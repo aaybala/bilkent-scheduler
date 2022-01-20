@@ -25,7 +25,7 @@
       </tr>
       <tr>
         <th>Hybrid</th>
-        <th>Online</th>
+        <th>Face to Face</th>
         <th>Hybrid</th>
         <th>Face to Face</th>
         <th>Bilkent</th>

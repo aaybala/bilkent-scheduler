@@ -1,55 +1,55 @@
 {
   "name": "Methods of Applied Mathematics I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MATH 543",
   "sections": {
     "MATH 543-001": {
-      "instructor": "Metin Gürses",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "instructor": "Staff",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "SB-Z11",
-          "class": "Hybrid Lecture"
+          "place": "SA-Z19(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "SB-Z11(S)",
-          "class": "Hybrid Lecture"
+          "place": "SA-Z19",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "SB-Z11",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "SA-Z19",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "SB-Z11",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "SA-Z19",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 543-001"

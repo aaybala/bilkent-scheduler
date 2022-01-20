@@ -1,63 +1,23 @@
 {
   "name": "Managerial Accounting",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MAN 312",
   "sections": {
     "MAN 312-001": {
       "instructor": "Banu Sultanoğlu",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MA-202",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-202(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "MA-202",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "MA-202",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MAN 312-001"
-    },
-    "MAN 312-002": {
-      "instructor": "Alaattin Ecer",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "quota": "33 Mand. 2 Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -67,32 +27,112 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-202(S)",
-          "class": "Hybrid Lecture"
+          "place": "MA-302(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-202",
-          "class": "Hybrid Lecture"
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "MA-202",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "MA-202",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 312-001"
+    },
+    "MAN 312-002": {
+      "instructor": "Banu Sultanoğlu",
+      "quota": "33 Mand. 2 Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-302(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MAN 312-002"
+    },
+    "MAN 312-003": {
+      "instructor": "Banu Sultanoğlu",
+      "quota": "33 Mand. 2 Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-302(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 312-003"
     }
   }
 }

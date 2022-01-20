@@ -1,21 +1,101 @@
 {
   "name": "Business Communications",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "ENG 206",
   "sections": {
     "ENG 206-001": {
-      "instructor": "Staff",
+      "instructor": "Ahu Ertan",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "H-235(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "H-235",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "H-235",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "H-235",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 206-001"
+    },
+    "ENG 206-002": {
+      "instructor": "Hümeyra Başol Çetin",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "H-334(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "H-334",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "H-334",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "H-334",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 206-002"
+    },
+    "ENG 206-003": {
+      "instructor": "Hümeyra Başol Çetin",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -25,37 +105,77 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "MA-206(S)",
-          "class": "Hybrid Lecture"
+          "start": "10:30",
+          "end": "11:20",
+          "place": "H-235(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "MA-206",
-          "class": "Hybrid Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "H-235",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "MA-206",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "H-235",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "MA-206",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "H-235",
+          "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ENG 206-001"
+      "name": "ENG 206-003"
     },
-    "ENG 206-002": {
-      "instructor": "Staff",
+    "ENG 206-004": {
+      "instructor": "Ahu Ertan",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "H-133B(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "H-133B",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "H-133B",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "H-133B",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 206-004"
+    },
+    "ENG 206-005": {
+      "instructor": "Ahu Ertan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -67,32 +187,72 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-206",
-          "class": "Hybrid Lecture"
+          "place": "A-231(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-206(S)",
-          "class": "Hybrid Lecture"
+          "place": "A-231",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "MA-206",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "A-231",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "MA-206",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "A-231",
+          "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ENG 206-002"
+      "name": "ENG 206-005"
+    },
+    "ENG 206-006": {
+      "instructor": "Hümeyra Başol Çetin",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-108(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-108",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-108",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-108",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 206-006"
     }
   }
 }

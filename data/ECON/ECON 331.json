@@ -1,21 +1,21 @@
 {
   "name": "International Trade",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "ECON 331",
   "sections": {
     "ECON 331-001": {
-      "instructor": "Fitnat Banu Pakel",
+      "instructor": "Staff",
       "quota": "60 Mand. or Elect.",
       "total_quota": 60,
       "enrollment": {
@@ -27,29 +27,29 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-Z25(S)",
-          "class": "Hybrid Lecture"
+          "place": "B-Z07(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-Z25",
-          "class": "Hybrid Lecture"
+          "place": "B-Z07",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "A-Z25",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-Z07",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "A-Z25",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-Z07",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 331-001"

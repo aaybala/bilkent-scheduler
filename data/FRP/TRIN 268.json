@@ -1,0 +1,154 @@
+{
+  "name": "Sight Translation II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 6,
+    "ECTS": 3
+  },
+  "code": "TRIN 268",
+  "sections": {
+    "TRIN 268-001": {
+      "instructor": "Duygu Duman  Zeynep Şengel",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LA-114(S)",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LD-4(S)",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LA-114",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LD-4",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LA-114",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LD-4",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LA-114",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LD-4",
+          "class": "Online Lab/Studio"
+        }
+      ],
+      "name": "TRIN 268-001"
+    },
+    "TRIN 268-002": {
+      "instructor": "Yasemin Tanbi  Zeynep Şengel",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LB-Z10(S)",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LB-Z10(S)",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LB-Z10",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LB-Z10",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LB-Z10",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LB-Z10",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LB-Z10",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LB-Z10",
+          "class": "Online Lab/Studio"
+        }
+      ],
+      "name": "TRIN 268-002"
+    }
+  }
+}

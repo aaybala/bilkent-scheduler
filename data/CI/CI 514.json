@@ -1,0 +1,51 @@
+{
+  "name": "Curriculum Development and Evaluation",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "CI 514",
+  "sections": {
+    "CI 514-001": {
+      "instructor": "Erdat Çataloğlu",
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CI 514-001"
+    }
+  }
+}

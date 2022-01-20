@@ -1,112 +1,91 @@
 {
   "name": "Algorithms and Data Structures",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 5,
-    "ECTS": 7.5
+    "bilkent": 0,
+    "ECTS": 4
   },
   "code": "CTIS 152",
   "sections": {
     "CTIS 152-001": {
-      "instructor": "Burcu Liman",
-      "quota": "17 Mand. 0 Elect.",
-      "total_quota": 17,
+      "instructor": "Serpil Tın",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "CD-B01",
-          "class": "Hybrid Lecture"
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "C-CTISL4",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "CD-B01",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "C-CTISL4",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "C-CTISL4",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "C-CTISL4",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "CD-B01",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "CD-B01",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CTIS 152-001"
     },
     "CTIS 152-002": {
-      "instructor": "Okyay Say",
-      "quota": "17 Mand. 0 Elect.",
-      "total_quota": 17,
+      "instructor": "Serpil Tın",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -116,175 +95,269 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "CD-B01",
-          "class": "Hybrid Lecture"
+          "place": "CE-104(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "CD-B01",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "C-CTISL4",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "C-CTISL4",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "C-CTISL4",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "C-CTISL4",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "CD-B01",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "CD-B01",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CTIS 152-002"
     },
     "CTIS 152-003": {
-      "instructor": "Burcu Liman",
-      "quota": "9 Mand. 0 Elect.",
-      "total_quota": 9,
+      "instructor": "Serpil Tın",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "CD-B01",
-          "class": "Hybrid Lecture"
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "C-CTISL7",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "CD-B01",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "C-CTISL7",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "C-CTISL7",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "C-CTISL7",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "CD-B01",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "CD-B01",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CTIS 152-003"
     },
     "CTIS 152-004": {
-      "instructor": "Okyay Say",
-      "quota": "9 Mand. 0 Elect.",
-      "total_quota": 9,
+      "instructor": "Serpil Tın",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-104(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CTIS 152-004"
+    },
+    "CTIS 152-005": {
+      "instructor": "Serpil Tın",
+      "quota": "5 Mand. 0 Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "CE-104(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CTIS 152-005"
+    },
+    "CTIS 152-006": {
+      "instructor": "Serpil Tın",
+      "quota": "5 Mand. 0 Elect.",
+      "total_quota": 5,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -294,81 +367,196 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "C-CTISL7",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "CD-B01",
-          "class": "Hybrid Lecture"
+          "place": "CE-104(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "C-CTISL7",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "CD-B01",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "C-CTISL7",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "C-CTISL7",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "CD-B01",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "CD-B01",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "CTIS 152-004"
+      "name": "CTIS 152-006"
+    },
+    "CTIS 152-007": {
+      "instructor": "Serpil Tın",
+      "quota": "5 Mand. 0 Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "CE-104(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 152-007"
+    },
+    "CTIS 152-008": {
+      "instructor": "Serpil Tın",
+      "quota": "5 Mand. 0 Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-104(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CTIS 152-008"
     }
   }
 }

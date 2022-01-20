@@ -1,103 +1,63 @@
 {
   "name": "Discrete and Combinatorial Mathematics",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MATH 132",
   "sections": {
     "MATH 132-001": {
-      "instructor": "Nil Şahin",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-236",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-236(S)",
-          "class": "Hybrid Lecture"
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-03(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-236",
-          "class": "Online Only Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-236",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 132-001"
     },
     "MATH 132-002": {
-      "instructor": "Gökhan Yıldırım",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-236",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-236(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-236",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-236",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MATH 132-002"
-    },
-    "MATH 132-003": {
-      "instructor": "Alexander Degtyarev",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -107,32 +67,192 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-206(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-236(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-206",
-          "class": "Hybrid Lecture"
+          "place": "G-236",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "B-206",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-236",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "B-206",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-236",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 132-002"
+    },
+    "MATH 132-003": {
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-236(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-236",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-236",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-236",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 132-003"
+    },
+    "MATH 132-004": {
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EE-03(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 132-004"
+    },
+    "MATH 132-005": {
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EE-03(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 132-005"
+    },
+    "MATH 132-006": {
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-03(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-03",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 132-006"
     }
   }
 }

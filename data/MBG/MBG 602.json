@@ -1,21 +1,21 @@
 {
   "name": "Molecular and Cellular Immunology",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MBG 602",
   "sections": {
     "MBG 602-001": {
-      "instructor": "İhsan Gürsel",
+      "instructor": "Serkan Belkaya",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -27,29 +27,29 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "SB-Z10",
-          "class": "Hybrid Lecture"
+          "place": "SB-Z10(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "SB-Z10(S)",
-          "class": "Hybrid Lecture"
+          "place": "SB-Z10",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
+          "start": "15:30",
+          "end": "16:20",
           "place": "SB-Z10",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
+          "start": "16:30",
+          "end": "17:20",
           "place": "SB-Z10",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MBG 602-001"

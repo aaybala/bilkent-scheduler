@@ -1,60 +1,20 @@
 {
   "name": "Fundamentals of Social Research",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "POLS 201",
   "sections": {
     "POLS 201-001": {
-      "instructor": "Mehmet Nedim Karakayalı",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-231(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-231",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "A-231",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "A-231",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "POLS 201-001"
-    },
-    "POLS 201-002": {
       "instructor": "Zerrin Tandoğan",
       "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
@@ -65,31 +25,71 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "T-272(S)",
-          "class": "Hybrid Lecture"
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-231(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-231",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "A-231",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "A-231",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "POLS 201-001"
+    },
+    "POLS 201-002": {
+      "instructor": "Anh Susann Pham Thi",
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-Z02(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "T-272",
-          "class": "Hybrid Lecture"
+          "place": "MA-Z02",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "T-272",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-Z02",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "T-272",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-Z02",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "POLS 201-002"

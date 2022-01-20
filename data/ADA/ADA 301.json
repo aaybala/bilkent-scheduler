@@ -1,0 +1,58 @@
+{
+  "name": "Cross-Disciplinary Design and Representation",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": null,
+    "faceToFace": 3
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 3
+  },
+  "code": "ADA 301",
+  "sections": {
+    "ADA 301-001": {
+      "instructor": "Cem Korkmaz",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FA-317(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "ADA 301-001"
+    }
+  }
+}

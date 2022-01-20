@@ -1,0 +1,51 @@
+{
+  "name": "Criminal Law",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "LAW 609",
+  "sections": {
+    "LAW 609-001": {
+      "instructor": "Tuğrul Bayazıt Katoğlu",
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-B40",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "19:30",
+          "end": "20:20",
+          "place": "G-B40",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "20:30",
+          "end": "21:20",
+          "place": "G-B40",
+          "class": "Online/Hybrid Lecture"
+        }
+      ],
+      "name": "LAW 609-001"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Post-War Literature",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "ELIT 478",
+  "sections": {
+    "ELIT 478-001": {
+      "instructor": "Can Öztürk",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "T-169",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "T-169",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "19:30",
+          "end": "20:20",
+          "place": "T-169",
+          "class": "Online/Hybrid Lecture"
+        }
+      ],
+      "name": "ELIT 478-001"
+    },
+    "ELIT 478-002": {
+      "instructor": "Can Öztürk",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "T-169",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "T-169",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "19:30",
+          "end": "20:20",
+          "place": "T-169",
+          "class": "Online/Hybrid Lecture"
+        }
+      ],
+      "name": "ELIT 478-002"
+    }
+  }
+}

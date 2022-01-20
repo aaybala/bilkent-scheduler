@@ -1,20 +1,60 @@
 {
   "name": "Introduction to Psychology II / Social and Developmental",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "PSYC 103",
   "sections": {
     "PSYC 103-001": {
+      "instructor": "Selin Salman Engin",
+      "quota": "55 Mand. 10 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-329(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-329",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-329",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-329",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PSYC 103-001"
+    },
+    "PSYC 103-002": {
       "instructor": "Jedediah Wilfred Papas Allen",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
@@ -24,35 +64,35 @@
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "T-172",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-329(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "T-172(S)",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-329",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "T-172",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-329",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "T-172",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-329",
+          "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "PSYC 103-001"
+      "name": "PSYC 103-002"
     }
   }
 }

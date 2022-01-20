@@ -1,0 +1,51 @@
+{
+  "name": "Marketing Research",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "MAN 431",
+  "sections": {
+    "MAN 431-001": {
+      "instructor": "Güliz Ger",
+      "quota": "0 Mand. 30 Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "MA-302",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "19:30",
+          "end": "20:20",
+          "place": "MA-302",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "20:30",
+          "end": "21:20",
+          "place": "MA-302",
+          "class": "Online/Hybrid Lecture"
+        }
+      ],
+      "name": "MAN 431-001"
+    }
+  }
+}

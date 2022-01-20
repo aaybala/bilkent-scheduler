@@ -1,0 +1,86 @@
+{
+  "name": "Simultaneous Interpretation II: Fieldwork+Projectwork",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 6,
+    "ECTS": 6
+  },
+  "code": "TRIN 484",
+  "sections": {
+    "TRIN 484-001": {
+      "instructor": "Ayşe Akıncı Candoğan  Elvin Abbasbeyli",
+      "quota": "5 Mand. or Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LB-101(S)",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LB-101",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LB-101",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LB-101",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "LA-114",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "LA-114",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "LA-114",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "LA-114(S)",
+          "class": "Online Lab/Studio"
+        }
+      ],
+      "name": "TRIN 484-001"
+    }
+  }
+}

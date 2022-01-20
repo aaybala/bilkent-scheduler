@@ -1,215 +1,154 @@
 {
   "name": "Algorithms and Programming I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 4,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 4
   },
   "code": "CS 101",
   "sections": {
     "CS 101-001": {
-      "instructor": "David Davenport",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Lori Rae Russell Dağ",
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "B-Z05(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-Z05",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-Z05",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-Z01(S)",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-Z05",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-Z01",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
+          "start": "14:30",
+          "end": "15:20",
           "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-201(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "B-Z01",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "B-Z01",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 101-001"
     },
     "CS 101-002": {
-      "instructor": "David Davenport",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Lori Rae Russell Dağ",
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Sunday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Sunday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z01",
-          "class": "Hybrid Lecture"
+          "place": "B-Z05(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Sunday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z01(S)",
-          "class": "Hybrid Lecture"
+          "place": "B-Z05",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "B-Z01",
-          "class": "Online Only Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "B-Z01",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-Z05",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-Z05",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 101-002"
-    },
-    "CS 101-003": {
-      "instructor": "David Davenport",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-Z01",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z01(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-201(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "B-Z01",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "B-Z01",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CS 101-003"
     }
   }
 }

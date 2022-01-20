@@ -17,5 +17,7 @@
 
     <p>This modern version is created by Mustafa in 2-days and the source code is available on Github. It's hosted via Netlify and works on only static data. If it changes, it is manually updated by Mustafa. The data collection does not cause a load to STARS, since the actions are delayed.</p>
 
+    <p>It is updated by <a href="https://www.linkedin.com/in/aybala-karakaya/">Aybala</a> for 2022 Spring Semester.</p>
+
   </div>
 </template>

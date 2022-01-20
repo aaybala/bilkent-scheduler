@@ -1,79 +1,126 @@
 {
   "name": "Computer Algorithms",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 2
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "CTIS 264",
   "sections": {
     "CTIS 264-001": {
       "instructor": "Füsun Yürüten",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
+      "quota": "22 Mand. 0 Elect.",
+      "total_quota": 22,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "CE-107(S)",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
           "place": "CE-107",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "C-CTISL4",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "C-CTISL4",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "CE-107",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "CE-107",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "CE-107",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CTIS 264-001"
+    },
+    "CTIS 264-002": {
+      "instructor": "Füsun Yürüten",
+      "quota": "22 Mand. 0 Elect.",
+      "total_quota": 22,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-107(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-107",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CE-107",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CE-107",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 264-002"
     }
   }
 }

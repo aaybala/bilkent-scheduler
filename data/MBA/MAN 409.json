@@ -1,22 +1,22 @@
 {
-  "name": "Special Topics in Business Administra.",
+  "name": "Sustainability and Social Impact in Business",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MAN 409",
   "sections": {
     "MAN 409-001": {
-      "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
+      "instructor": "Selcen Erdem",
+      "quota": "0 Mand. 25 Elect.",
       "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
@@ -24,32 +24,25 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
+          "day": "Saturday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-302",
+          "class": "Online/Hybrid Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "day": "Saturday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-302",
+          "class": "Online/Hybrid Lecture"
         },
         {
-          "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Saturday",
+          "start": "12:30",
+          "end": "13:20",
+          "place": "MA-302",
+          "class": "Online/Hybrid Lecture"
         }
       ],
       "name": "MAN 409-001"

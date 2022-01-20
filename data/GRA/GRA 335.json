@@ -1,21 +1,21 @@
 {
   "name": "Computational Design Methods",
   "lectureHours": {
-    "hybrid": 1,
+    "hybrid": 0,
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
+    "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
     "bilkent": 3,
-    "ECTS": 5
+    "ECTS": 3
   },
   "code": "GRA 335",
   "sections": {
     "GRA 335-001": {
-      "instructor": "Efe Alpay",
+      "instructor": "Staff",
       "quota": "18 Mand. or Elect.",
       "total_quota": 18,
       "enrollment": {
@@ -24,39 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-314",
+          "class": "Online Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-314",
+          "class": "Online Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-314",
+          "class": "Online Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "(S)",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-314(S)",
+          "class": "Online Lab/Studio"
         }
       ],
       "name": "GRA 335-001"

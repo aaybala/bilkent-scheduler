@@ -1,0 +1,178 @@
+{
+  "name": "Designing with Digital Media",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 3
+  },
+  "code": "ADA 134",
+  "sections": {
+    "ADA 134-001": {
+      "instructor": "Yiğit Acar",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FC-209",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FC-209",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FC-209",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FC-209(S)",
+          "class": "Online Lab/Studio"
+        }
+      ],
+      "name": "ADA 134-001"
+    },
+    "ADA 134-002": {
+      "instructor": "Alp Giray Köse",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FC-Z23C",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FC-Z23C",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FC-Z23C",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FC-Z23C(S)",
+          "class": "Online Lab/Studio"
+        }
+      ],
+      "name": "ADA 134-002"
+    },
+    "ADA 134-003": {
+      "instructor": "Zeynep Ege Odabaşı",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FA-213",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FA-213",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FA-213",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FA-213(S)",
+          "class": "Online Lab/Studio"
+        }
+      ],
+      "name": "ADA 134-003"
+    },
+    "ADA 134-004": {
+      "instructor": "Gizem Karabay Can",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-216",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-216",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-216",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-216(S)",
+          "class": "Online Lab/Studio"
+        }
+      ],
+      "name": "ADA 134-004"
+    }
+  }
+}

@@ -5,44 +5,51 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "COMD 365",
   "sections": {
     "COMD 365-001": {
       "instructor": "Maria Helena Brzozowska",
-      "quota": "12 Mand. or Elect.",
-      "total_quota": 12,
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FB-114(S)",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 365-001"

@@ -1,206 +1,227 @@
 {
   "name": "Computer Organization",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 4,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 4
   },
   "code": "CS 224",
   "sections": {
     "CS 224-001": {
       "instructor": "Fazlı Can",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "28 Mand. or Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-317(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EA-Z03(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-317",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EA-Z04",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EA-Z04",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EA-Z04",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EE-317",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "EE-317",
-          "class": "Online Only Lecture"
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 224-001"
     },
     "CS 224-002": {
       "instructor": "Fazlı Can",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "28 Mand. or Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-317(S)",
-          "class": "Hybrid Lecture"
+          "place": "EA-Z03(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-317",
-          "class": "Hybrid Lecture"
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EA-Z04",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EA-Z04",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EA-Z04",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EE-317",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "EE-317",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 224-002"
     },
     "CS 224-003": {
       "instructor": "Fazlı Can",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "28 Mand. or Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Sunday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Sunday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z02",
-          "class": "Hybrid Lecture"
+          "place": "EE-214(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Sunday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z02(S)",
-          "class": "Hybrid Lecture"
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "B-Z02",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "B-Z02",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 224-003"
     },
     "CS 224-004": {
       "instructor": "Fazlı Can",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "28 Mand. or Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -208,55 +229,198 @@
       "schedule": [
         {
           "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z02",
-          "class": "Hybrid Lecture"
+          "place": "EE-214(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z02(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EA-Z04",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EA-Z04",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CS 224-004"
+    },
+    "CS 224-005": {
+      "instructor": "Özcan Öztürk",
+      "quota": "28 Mand. or Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EE-214(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EA-Z04",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "B-Z02",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "B-Z02",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "CS 224-004"
+      "name": "CS 224-005"
+    },
+    "CS 224-006": {
+      "instructor": "Özcan Öztürk",
+      "quota": "28 Mand. or Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EE-214(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-214",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CS 224-006"
     }
   }
 }

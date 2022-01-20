@@ -1,0 +1,86 @@
+{
+  "name": "Professional Communication for Interpreters",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 6,
+    "ECTS": 3
+  },
+  "code": "TRIN 464",
+  "sections": {
+    "TRIN 464-001": {
+      "instructor": "Zeynep Şengel  Elvin Abbasbeyli",
+      "quota": "5 Mand. or Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LA-107(S)",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LA-107",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LA-107",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LA-107",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "LA-101",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "LA-101",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "LA-101",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "LA-101(S)",
+          "class": "Online Lab/Studio"
+        }
+      ],
+      "name": "TRIN 464-001"
+    }
+  }
+}

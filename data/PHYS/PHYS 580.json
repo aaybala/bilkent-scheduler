@@ -1,0 +1,17 @@
+{
+  "name": "Experimental Methods in Applied Physics",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 4
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "PHYS 580",
+  "sections": {}
+}

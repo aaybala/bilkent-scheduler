@@ -1,0 +1,51 @@
+{
+  "name": "Archaeological Method and Theory",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "HART 436",
+  "sections": {
+    "HART 436-001": {
+      "instructor": "Azer Keskin",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "H-132",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "H-132",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "19:30",
+          "end": "20:20",
+          "place": "H-132",
+          "class": "Online/Hybrid Lecture"
+        }
+      ],
+      "name": "HART 436-001"
+    }
+  }
+}

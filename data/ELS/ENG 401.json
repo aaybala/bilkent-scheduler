@@ -1,21 +1,21 @@
 {
   "name": "Technical Report Writing and Presentation",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 2,
-    "ECTS": 3.5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "ENG 401",
   "sections": {
     "ENG 401-001": {
-      "instructor": "Staff",
+      "instructor": "Özge Ezici Çetin",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -27,35 +27,35 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-107(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-255(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-107",
-          "class": "Hybrid Lecture"
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "B-107",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "B-107",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-001"
     },
     "ENG 401-002": {
-      "instructor": "Staff",
+      "instructor": "Marlene Denice Elwell",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -67,35 +67,35 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-209(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-227(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-209",
-          "class": "Hybrid Lecture"
+          "place": "G-227",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "G-209",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-227",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "G-209",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-227",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-002"
     },
     "ENG 401-003": {
-      "instructor": "Staff",
+      "instructor": "Marinus Hendrik Johannes Langbroek",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -107,35 +107,35 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-210(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-255(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-210",
-          "class": "Hybrid Lecture"
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "G-210",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "G-210",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-003"
     },
     "ENG 401-004": {
-      "instructor": "Staff",
+      "instructor": "Özge Ezici Çetin",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -144,38 +144,38 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-134(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-253(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-134",
-          "class": "Hybrid Lecture"
+          "place": "G-253",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "G-134",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-253",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "G-134",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-253",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-004"
     },
     "ENG 401-005": {
-      "instructor": "Staff",
+      "instructor": "Marlene Denice Elwell",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -187,35 +187,35 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EB-204(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-252(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EB-204",
-          "class": "Hybrid Lecture"
+          "place": "G-252",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EB-204",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-252",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "EB-204",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-252",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-005"
     },
     "ENG 401-006": {
-      "instructor": "Staff",
+      "instructor": "Ceylan Kızılduman Yazıcı",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -224,38 +224,118 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-107(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-231(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-107",
-          "class": "Hybrid Lecture"
+          "place": "G-231",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "B-107",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-231",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "B-107",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-231",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-006"
     },
     "ENG 401-007": {
-      "instructor": "Staff",
+      "instructor": "Bengü Yurtseven",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-232(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-232",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-232",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-232",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 401-007"
+    },
+    "ENG 401-008": {
+      "instructor": "Semra Akbaş",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-227(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-227",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-227",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-227",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 401-008"
+    },
+    "ENG 401-009": {
+      "instructor": "Jennifer Lyn Schroeder",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -267,115 +347,35 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-102(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-207(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-102",
-          "class": "Hybrid Lecture"
+          "place": "G-207",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "B-102",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-207",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "B-102",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ENG 401-007"
-    },
-    "ENG 401-008": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-210",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-210(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "G-210",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "G-210",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ENG 401-008"
-    },
-    "ENG 401-009": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-231",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-231(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "G-231",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "G-231",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-207",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-009"
     },
     "ENG 401-010": {
-      "instructor": "Staff",
+      "instructor": "Bengü Yurtseven",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -384,38 +384,38 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-107",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-136(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-136",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-107(S)",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-136",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "B-107",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "B-107",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-136",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-010"
     },
     "ENG 401-011": {
-      "instructor": "Staff",
+      "instructor": "Bengü Yurtseven",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -424,38 +424,38 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-231",
-          "class": "Hybrid Lecture"
+          "place": "G-228(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-231(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-228",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "G-231",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-228",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "G-231",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-228",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-011"
     },
     "ENG 401-012": {
-      "instructor": "Staff",
+      "instructor": "Andrew Bonar",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -464,38 +464,38 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-102",
-          "class": "Hybrid Lecture"
+          "place": "G-254(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-254",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-102(S)",
-          "class": "Hybrid Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-254",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "B-102",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "B-102",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-254",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-012"
     },
     "ENG 401-013": {
-      "instructor": "Staff",
+      "instructor": "Marinus Hendrik Johannes Langbroek",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -504,38 +504,38 @@
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-107",
-          "class": "Hybrid Lecture"
+          "place": "G-227(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-107(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-227",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "B-107",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-227",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "B-107",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-227",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-013"
     },
     "ENG 401-014": {
-      "instructor": "Staff",
+      "instructor": "Marlene Denice Elwell",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -544,35 +544,155 @@
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-102",
-          "class": "Hybrid Lecture"
+          "place": "G-255(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-102(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "B-102",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "B-102",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-014"
+    },
+    "ENG 401-015": {
+      "instructor": "Marlene Denice Elwell",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-254(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-254",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-254",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-254",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 401-015"
+    },
+    "ENG 401-016": {
+      "instructor": "Andrew Bonar",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-232(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-232",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-232",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-232",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 401-016"
+    },
+    "ENG 401-017": {
+      "instructor": "Semra Akbaş",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-231(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-231",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-231",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-231",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 401-017"
     }
   }
 }

@@ -1,0 +1,86 @@
+{
+  "name": "Introduction to Simultaneous Interpretation",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 6,
+    "ECTS": 3
+  },
+  "code": "TRIN 336",
+  "sections": {
+    "TRIN 336-001": {
+      "instructor": "Duygu Duman  Zeynep Şengel",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LD-4(S)",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LD-4(S)",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LD-4",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LD-4",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LD-4",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LD-4",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LD-4",
+          "class": "Online Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LD-4",
+          "class": "Online Lab/Studio"
+        }
+      ],
+      "name": "TRIN 336-001"
+    }
+  }
+}

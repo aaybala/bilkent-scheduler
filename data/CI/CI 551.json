@@ -1,0 +1,58 @@
+{
+  "name": "Special Teaching Methods 1: IB_Diploma Program",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 2
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "CI 551",
+  "sections": {
+    "CI 551-001": {
+      "instructor": "Armağan Ateşkan",
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CI 551-001"
+    }
+  }
+}
